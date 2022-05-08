@@ -11,7 +11,7 @@ import LoadMemoriaLetras from './components/LoadMemoria/loadMemoriaLetras';
 import LoadMemoriaAnimais from './components/LoadMemoria/loadMemoriaAnimais';
 import CongratsPalavras from './components/CongratsPalavras/congratsPalavras';
 
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (

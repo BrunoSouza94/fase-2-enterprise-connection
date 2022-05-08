@@ -22,8 +22,8 @@ const EndMemoriaAnimais = () => {
     const navigate = useNavigate();
 
     useEffect(() => {
-        setTimeout(navigate("../"), 5000);
-    }, []);
+        setTimeout(() => navigate("../"), 5000);
+    }, [navigate]);
 
     return (
         <Background>
