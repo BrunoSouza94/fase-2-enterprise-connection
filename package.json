@@ -2,7 +2,7 @@
   "name": "fase-2-enterprise-connection",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://proud-field-0a6f9a610.1.azurestaticapps.net/",
   "dependencies": {
     "@babel/runtime": "^7.17.9",
     "@testing-library/jest-dom": "^5.16.4",
