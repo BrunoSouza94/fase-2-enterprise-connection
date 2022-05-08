@@ -7,7 +7,7 @@ export const Background = styled.div
         height: 100vh;
         background-color: #B486F4;
     }
-`;
+`
 
 export const Image = styled.img
 `
